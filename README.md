@@ -2,6 +2,8 @@
 
 ## timer pomodoro que ajuda a se concentra, também pode ser acionado sons relaxantes, existe dois modos claro e escuro e versão mobile.
 
+Feito com HTML e CSS.
+
 https://vandecirfreire.github.io/timer-pomodoro-dark-mode/
 
 
